@@ -26,7 +26,7 @@ print ("""
 
 user_money = 0 #machine has no money whatsoever
 
-#list of items (8 coffees and 8 cakes and muffins)
+#nested dictionary of items (8 coffees and 8 cakes and muffins)
 coffee_drinks = {
     "A1": {"Name": "Frappuccino", "Price": 10, "Stock": 5},
     "A2": {"Name": "Latte", "Price": 10, "Stock": 5},
